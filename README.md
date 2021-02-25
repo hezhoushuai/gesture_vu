@@ -1,19 +1,4 @@
 # gesture_vue
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 手势操作-vue
+使用到的npm包为[`smart-gesture`](https://github.com/ElemeFE/smart-gesture)
