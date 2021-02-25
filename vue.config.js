@@ -1,7 +1,5 @@
-const basePath = process.env.NODE_ENV === 'development' ? '/' : '/gesture_vue/'
-
 module.exports = {
-  publicPath: basePath,
+  publicPath: process.env.BASE_BUILD_ASSETS_PATH,
   outputDir: 'docs',
   devServer: {
     port: 8088
